@@ -1,3 +1,4 @@
+//Sample from tutorial
 var sum = require('../index');
 var expect = require('chai').expect;
 
