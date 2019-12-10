@@ -28,7 +28,7 @@ describe('#sum()', function() {
     })
   })
 })
-
+//Unique test-casing, based on above example
 describe('#sub()', function() {
 
     describe('without arguments', function(){
