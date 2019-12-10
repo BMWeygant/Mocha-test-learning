@@ -1,0 +1,2 @@
+<h1>About</h1>
+<p>This is a mini-project meant to teach myself how to write test cases using Mocha w/ JavaScript. The immediate goal is to write out multiple functions with comprehensive test cases, not to establish a curriculum at the moment.</p>
