@@ -1,5 +1,5 @@
 //Sample from tutorial
-var sum = require('../index');
+const {sum} = require('../index');
 var expect = require('chai').expect;
 
 describe('#sum()', function() {
