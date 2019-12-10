@@ -14,3 +14,4 @@ module.exports = function() {
       return a + b
     }, 0);
 }
+//All tests related to sum pass
