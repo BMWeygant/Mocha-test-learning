@@ -11,12 +11,17 @@ const sub = (a, b) => {
     return a - b 
 }
 
+const modernArt = {
+    beautiful: false,
+    abstract: true,
+    modern: true
+}
 
 
 
 
 
-module.exports = {sum, sub}
+module.exports = {sum, sub, modernArt}
 //Sample code from internet tutorial
 // module.exports = function() {
 
