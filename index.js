@@ -1,15 +1,14 @@
-//Custom solution to Sample test sum
+//Simplified test solutions
 
 const sum = (a, b) => {
-    if(a || b === !Number)
-        throw new TypeError('sum() expects only numbers.')
+    return a + b
     
 }
 
 //Added own sub test, solution below
 
 const sub = (a, b) => {
-    return a - b
+    return a - b 
 }
 
 
