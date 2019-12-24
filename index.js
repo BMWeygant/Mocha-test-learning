@@ -10,7 +10,8 @@ const sub = (a, b) => {
 const modernArt = {
     beautiful: false,
     abstract: true,
-    modern: true
+    modern: true,
+    critique: "Absolutely inspiring!"
 }
 
 
