@@ -34,5 +34,8 @@ describe("Non-Math Labs", function(){
     it('modernArt is in fact, modern', function(){
       expect(modernArt.modern).to.be.ok
     })
+    it('modernArt has a critique attribute for observers input', function(){
+      expect(modernArt.critique).to.be.a('string')
+    })
   })
 })
